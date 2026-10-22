@@ -1,57 +1,57 @@
- # Lesson plan
- > In this activity your group is tasked to create the ABC's by taking pictures of various items around you and add them to your website.
+# Plan de lección
+> En esta actividad, su grupo deberá crear el abecedario tomando fotografías de diversos elementos a su alrededor y agregarlas a su sitio web.
 >
->Letter A has already been completed, use it as a reference for all other letters you have to complete.
+> La letra A ya está lista. Úsenla como referencia para completar las demás letras.
 
-# ABC-Challenge
+# Desafío del abecedario
 
-> In this activity, you must work as a group to complete this large task. Dividing up the work is highly recommended.
+> En esta actividad, deberán trabajar en equipo para completar esta gran tarea. Se recomienda dividir el trabajo.
 
-# Instructions:
+# Instrucciones:
 
-## HTML Section
-- Insert pictures for all ABC
-- Fix any visible mistakes
+## Sección de HTML
+- Insertar fotografías para todas las letras del abecedario
+- Corregir cualquier error visible
 
-## CSS Section
+## Sección de CSS
 
-- Link style.css to HTML
-- Make the background color gray
-- Make h3 color green
-- Make a class to apply the color blue to three h3
-- Make one h3 color red
+- Vincular style.css con el archivo HTML
+- Establecer el color de fondo en gris
+- Establecer el color de h3 en verde
+- Crear una clase para aplicar el color azul a tres elementos h3
+- Establecer el color de un elemento h3 en rojo
 
-## JavaScript Section
+## Sección de JavaScript
 
-- Link script.js to HTML
-- Make a function that applies a random 3 random colors
-  - Green, Blue, and Red. 
-- When someone clicks on any h5 tags, make them change to 3 random colors repeatable.
-  - Green, Blue, and Red.
+- Vincular script.js con el archivo HTML
+- Crear una función que aplique aleatoriamente uno de estos tres colores:
+  - Verde, azul y rojo.
+- Al hacer clic en cualquier etiqueta h5, hacer que cambie repetidamente entre estos tres colores:
+  - Verde, azul y rojo.
 
-## GitHub Section
+## Sección de GitHub
 
-- Make a GitHub Repository for this project
-- Link the repository to this project
-- Add all team members as a contributor 
-- Link Github to Replit
-- Make a Project Board for this activity
-	- Make task cards related to your activity and manage them
+- Crear un repositorio de GitHub para este proyecto
+- Vincular el repositorio con este proyecto
+- Agregar a todos los integrantes del equipo como colaboradores
+- Vincular GitHub con Replit
+- Crear un tablero de proyecto para esta actividad
+	- Crear tarjetas de tareas relacionadas con la actividad y gestionarlas
 
-# Begin this activity by...
-> Having a scrum meeting!
+# Para comenzar esta actividad...
+> ¡Hagan una reunión de Scrum!
 >
-> Your team should create a project board and then create cards and issues for each task. This is repetitive and is meant to be used as practice. Start your first sprint by prioritizing the first easy tasks(letters as an example) people can access; once everyone is done with their tasks, close the card & issues and then move to the next issue.
+> El equipo debe crear un tablero de proyecto y luego crear tarjetas e incidencias para cada tarea. Este proceso es repetitivo a propósito y sirve para practicar. Comiencen el primer sprint priorizando las tareas sencillas (por ejemplo, las letras) a las que todos puedan acceder. Cuando todos hayan terminado sus tareas, cierren las tarjetas y las incidencias; luego, pasen a la siguiente incidencia.
 >
-> Practice branching in your repository by creating a new branch for every task you work on. For example, if you personally get tasked with the letter C - F, then create a branch called "letterC-F". Once you finish those letters and are done with the branch, make sure to create a new branch for your next letters. For example, if you are next tasked with letterG-I, your branch would be "letterG-I".
+> Practiquen el uso de ramas en el repositorio creando una rama nueva para cada tarea. Por ejemplo, si te asignan las letras C a F, crea una rama llamada "letterC-F". Cuando termines esas letras y cierres esa rama, asegúrate de crear otra para las siguientes letras que te asignen. Por ejemplo, si después te asignan las letras G a I, tu rama podría llamarse "letterG-I".
 
-## Useful commands for creating and moving to branches...
-    - `git branch` (shows current local branches)
-    - `git branch branchName` (creates a new branch)
-    - `git checkout branchName` (moves you to the branch listed)
-    - `git checkout -b branchName` (creates a new branch and moves you to it)
+## Comandos útiles para crear ramas y cambiar a ellas...
+    - `git branch` (muestra las ramas locales actuales)
+    - `git branch branchName` (crea una rama nueva)
+    - `git checkout branchName` (cambia a la rama indicada)
+    - `git checkout -b branchName` (crea una rama nueva y cambia a ella)
 
-## How to push a branch... 
+## Cómo subir una rama...
     - `git status`
     - `git add .`
     - `git commit -m 'messages'`
